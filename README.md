@@ -2,7 +2,13 @@
 
 # Contributions
 
-[![Profile details card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Natu-ja)]()
+<p align="center">
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img alt="Profile details card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Natu-ja">
+    </a>
+</p>
+
+[![Profile details card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Natu-ja)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 # Stats
 
