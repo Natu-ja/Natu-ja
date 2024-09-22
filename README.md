@@ -1,6 +1,6 @@
 # Hi, welcome to my github 👋
 
-# Contributions
+## Contributions
 
 <p align="center">
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -8,7 +8,7 @@
     </a>
 </p>
 
-# Stats
+## Stats
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
