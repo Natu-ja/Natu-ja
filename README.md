@@ -8,9 +8,15 @@
     </a>
 </p>
 
-[![Profile details card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Natu-ja)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 # Stats
 
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Natu-ja">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natu-ja">
+    </a>
+</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natu-ja)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natu-ja)](https://github.com/anuraghazra/github-readme-stats)
